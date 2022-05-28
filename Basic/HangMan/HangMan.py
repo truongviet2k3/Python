@@ -12,4 +12,5 @@ def get_valid_word(words):
 str = get_valid_word(words)
 print(str)
 
-def hang_man()
+def hang_man():
+    print("")
