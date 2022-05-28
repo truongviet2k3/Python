@@ -1,0 +1,1 @@
+words = ['VIET','DEPTRAI','VUITINH']
