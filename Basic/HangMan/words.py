@@ -1,1 +1,1 @@
-words = ['VIET','DEPTRAI','VUITINH']
+words = ['VIET','DEPTRAI','VUITINH','VUI_TINH']
